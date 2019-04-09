@@ -2,7 +2,7 @@
 a light base64 encode and decode imp
 
 # example
-```
+```c++
 #include "../base64.h"
 #include <stdio.h>
 
